@@ -28,7 +28,7 @@ This project integrates **sign language recognition** to enhance accessibility f
 
 ## 📸 Screenshots
 
-![Sign Language Detection Android Project](sign_language_detection_image.jpg)
+![Sign Language Detection Android Project](sign%20language%20detection%20image.jpg)
 
 
 ## 🤝 Contributing
