@@ -41,8 +41,9 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 Watch the full demonstration on YouTube:
 [▶️ Watch Demo on YouTube](https://youtu.be/0RI3yt9EaTk)
 
-✨ Made By
-A big shoutout to the creator! 🙌  DEEPANSHU TOLANI 
+## **Made By**
+Big shoutout to him!!!
+DEEPANSHU TOLANI 
 
 ## 📬 Contact
 
